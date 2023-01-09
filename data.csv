@@ -1,6 +1,6 @@
-Device,FailureRate
-IioT,214
-IioT,328
+Device,FailureRate,ID
+IioT,214,00
+IioT,328,00
 IioT,456
 IioT,273
 IioT,995
