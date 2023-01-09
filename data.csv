@@ -1,276 +1,302 @@
 Device,FailureRate,ID
-IioT,214,00
-IioT,328,00
-IioT,456,00
-IioT,273,00
-IioT,995,00
-IioT,601,00
-IioT,973,00
-IioT,183,00
-IioT,258,00
-IioT,880,00
-IioT,639,00
-IioT,565,00
-IioT,475,00
-IioT,459,00
-IioT,947,00
-IioT,937,00
-IioT,501,00
-IioT,371,00
-IioT,734,00
-IioT,703,00
-IioT,128,00
-IioT,358,00
-IioT,114,00
-IioT,336,00
-IioT,345,00
-IioT,463,00
-IioT,152,00
-IioT,607,00
-IioT,176,00
-IioT,371,00
-IioT,110,00
-IioT,268,00
-IioT,540,00
-IioT,947,00
-IioT,201,00
-IioT,213,00
-IioT,675,00
-IioT,131,00
-IioT,565,00
-IioT,258,00
-IioT,160,00
-IioT,436,00
-IioT,269,00
-IioT,180,00
-IioT,693,00
-IioT,130,00
-IioT,660,00
-IioT,290,00
-IioT,551,00
-IioT,444,00
-IioT,494,00
-IioT,955,00
-IioT,100,00
-IioT,499,00
-IioT,626,00
-IioT,900,00
-IioT,251,00
-IioT,959,00
-IioT,156,00
-IioT,813,00
-IioT,320,00
-IioT,837,00
-IioT,647,00
-IioT,441,00
-IioT,397,00
-IioT,203,00
-IioT,522,00
-IioT,341,00
-IioT,601,00
-IioT,609,00
-IioT,826,00
-IioT,988,00
-IioT,286,00
-Edge,4191,00
-Edge,3089,00
-Edge,2929,00
-Edge,9036,00
-Edge,8114,00
-Edge,3375,00
-Edge,9890,00
-Edge,9229,00
-Edge,4343,00
-Edge,3595,00
-Edge,9351,00
-Edge,3184,00
-Edge,8201,00
-Edge,3124,00
-Edge,7019,00
-Edge,1333,00
-Edge,9738,00
-Edge,5513,00
-Edge,5643,00
-Edge,4309,00
-Edge,8039,00
-Edge,4978,00
-Edge,3406,00
-Edge,1353,00
-Edge,7624,00
-Edge,7152,00
-Edge,8487,00
-Edge,4626,00
-Edge,7465,00
-Edge,1422,00
-Edge,8466,00
-Edge,7317,00
-Edge,5649,00
-Edge,6207,00
-Edge,9527,00
-Edge,8178,00
-Edge,4217,00
-Edge,3415,00
-Edge,4163,00
-Edge,8698,00
-Edge,6071,00
-Edge,4415,00
-Edge,2993,00
-Edge,9286,00
-Edge,1206,00
-Edge,3904,00
-Edge,8674,00
-Edge,9987,00
-Edge,4600,00
-Edge,9850,00
-Edge,3471,00
-Edge,2475,00
-Edge,1600,00
-Edge,3951,00
-Edge,9287,00
-Edge,7102,00
-Edge,6072,00
-Edge,7698,00
-Edge,9678,00
-Edge,8186,00
-Edge,1411,00
-Edge,9548,00
-Edge,1222,00
-Edge,6564,00
-Edge,4645,00
-Edge,1060,00
-Edge,4526,00
-Edge,1209,00
-Edge,6673,00
-Edge,6852,00
-Edge,3148,00
-Edge,3315,00
-Edge,3778,00
-Edge,9367,00
-Edge,6833,00
-Edge,6741,00
-Edge,6103,00
-Edge,5595,00
-Edge,5503,00
-Edge,5558,00
-Edge,1888,00
-Edge,2924,00
-Edge,4713,00
-Edge,5718,00
-Edge,4929,00
-Edge,3570,00
-Edge,3417,00
-Edge,8008,00
-Edge,8916,00
-Edge,7632,00
-Edge,8339,00
-Edge,8709,00
-Edge,6867,00
-Edge,8409,00
-Edge,5655,00
-Edge,4740,00
-Edge,5864,00
-Edge,8943,00
-Edge,1646,00
-Edge,5262,00
-Edge,5602,00
-Edge,6332,00
-Edge,4035,00
-Edge,8975,00
-Edge,3451,00
-Edge,9258,00
-Cloud,857793,00
-Cloud,346481,00
-Cloud,860164,00
-Cloud,169769,00
-Cloud,671815,00
-Cloud,437196,00
-Cloud,308082,00
-Cloud,939461,00
-Cloud,84521,00
-Cloud,300461,00
-Cloud,986141,00
-Cloud,223436,00
-Cloud,309076,00
-Cloud,555541,00
-Cloud,280465,00
-Cloud,316047,00
-Cloud,327446,00
-Cloud,538936,00
-Cloud,106583,00
-Cloud,486377,00
-Cloud,237805,00
-Cloud,437916,00
-Cloud,329361,00
-Cloud,479658,00
-Cloud,360868,00
-Cloud,825357,00
-Cloud,409908,00
-Cloud,654580,00
-Cloud,60568,00
-Cloud,646263,00
-Cloud,358871,00
-Cloud,983997,00
-Cloud,718880,00
-Cloud,449429,00
-Cloud,181149,00
-Cloud,159644,00
-Cloud,37172,00
-Cloud,187194,00
-Cloud,150876,00
-Cloud,533746,00
-Cloud,468162,00
-Cloud,403180,00
-Cloud,348352,00
-Cloud,456788,00
-Cloud,963335,00
-Cloud,228158,00
-Cloud,506227,00
-Cloud,605181,00
-Cloud,617530,00
-Cloud,662330,00
-Cloud,411647,00
-Cloud,255926,00
-Cloud,505015,00
-Cloud,939801,00
-Cloud,849388,00
-Cloud,176899,00
-Cloud,308576,00
-Cloud,931161,00
-Cloud,774450,00
-Cloud,957630,00
-Cloud,663664,00
-Cloud,359832,00
-Cloud,464572,00
-Cloud,680511,00
-Cloud,746784,00
-Cloud,426102,00
-Cloud,870818,00
-Cloud,964729,00
-Cloud,351506,00
-Cloud,991995,00
-Cloud,259189,00
-Cloud,603515,00
-Cloud,880938,00
-Cloud,601447,00
-Cloud,80601,00
-Cloud,306146,00
-Cloud,257840,00
-Cloud,942435,00
-Cloud,448871,00
-Cloud,501726,00
-Cloud,594046,00
-Cloud,626963,00
-Cloud,222154,00
-Cloud,728363,00
-Cloud,537347,00
-Cloud,998602,00
-Cloud,51592,00
-Cloud,491439,00
-Cloud,312462,00
-Cloud,741386,00
-Cloud,37853,00
-Cloud,43755,00
-Cloud,361006,00
-Cloud,795884,00
-Cloud,595640,00
-Cloud,309663,00
+Device,FailureRate,ID
+IIoT,	9535	,0
+IIoT,	1116	,0
+IIoT,	1942	,0
+IIoT,	2563	,0
+IIoT,	5320	,0
+IIoT,	3202	,0
+IIoT,	5936	,0
+IIoT,	4549	,0
+IIoT,	5279	,0
+IIoT,	9003	,0
+IIoT,	4466	,0
+IIoT,	8133	,0
+IIoT,	9295	,0
+IIoT,	1676	,0
+IIoT,	2499	,0
+IIoT,	1232	,0
+IIoT,	4315	,0
+IIoT,	5381	,0
+IIoT,	2767	,0
+IIoT,	1122	,0
+IIoT,	7491	,0
+IIoT,	2031	,0
+IIoT,	8132	,0
+IIoT,	9829	,0
+IIoT,	6445	,0
+IIoT,	7104	,0
+IIoT,	9419	,0
+IIoT,	8929	,0
+IIoT,	9934	,0
+IIoT,	7967	,0
+IIoT,	4022	,0
+IIoT,	6101	,0
+IIoT,	7990	,0
+IIoT,	3390	,0
+IIoT,	4748	,0
+IIoT,	2990	,0
+IIoT,	1712	,0
+IIoT,	3969	,0
+IIoT,	1362	,0
+IIoT,	5721	,0
+IIoT,	4568	,0
+IIoT,	9937	,0
+IIoT,	7755	,0
+IIoT,	5912	,0
+IIoT,	1559	,0
+IIoT,	6506	,0
+IIoT,	3800	,0
+IIoT,	8593	,0
+IIoT,	9846	,0
+IIoT,	8928	,0
+IIoT,	7567	,0
+IIoT,	3737	,0
+IIoT,	3344	,0
+IIoT,	6655	,0
+IIoT,	3725	,0
+IIoT,	6909	,0
+IIoT,	1664	,0
+IIoT,	3078	,0
+IIoT,	3421	,0
+IIoT,	4764	,0
+IIoT,	9765	,0
+IIoT,	3223	,0
+IIoT,	6725	,0
+IIoT,	1544	,0
+IIoT,	6511	,0
+IIoT,	4776	,0
+IIoT,	4719	,0
+IIoT,	6974	,0
+IIoT,	4683	,0
+IIoT,	5111	,0
+IIoT,	5580	,0
+IIoT,	3211	,0
+IIoT,	1676	,0
+IIoT,	3197	,0
+IIoT,	4926	,0
+IIoT,	3292	,0
+IIoT,	4123	,0
+IIoT,	5398	,0
+IIoT,	2150	,0
+IIoT,	3411	,0
+IIoT,	4905	,0
+IIoT,	4987	,0
+IIoT,	4575	,0
+IIoT,	5725	,0
+IIoT,	7007	,0
+IIoT,	3532	,0
+IIoT,	9920	,0
+IIoT,	4065	,0
+IIoT,	6223	,0
+IIoT,	2478	,0
+IIoT,	6728	,0
+IIoT,	5645	,0
+IIoT,	8036	,0
+IIoT,	5940	,0
+IIoT,	2621	,0
+IIoT,	2424	,0
+IIoT,	2672	,0
+IIoT,	2200	,0
+IIoT,	2015	,0
+IIoT,	2730	,0
+Edge,	2812	,0
+Edge,	5266	,0
+Edge,	3748	,0
+Edge,	8582	,0
+Edge,	9815	,0
+Edge,	7295	,0
+Edge,	6497	,0
+Edge,	9757	,0
+Edge,	2732	,0
+Edge,	8198	,0
+Edge,	9465	,0
+Edge,	3694	,0
+Edge,	9392	,0
+Edge,	6239	,0
+Edge,	1377	,0
+Edge,	3267	,0
+Edge,	7786	,0
+Edge,	2859	,0
+Edge,	3360	,0
+Edge,	2890	,0
+Edge,	9614	,0
+Edge,	2376	,0
+Edge,	2887	,0
+Edge,	1252	,0
+Edge,	6101	,0
+Edge,	8640	,0
+Edge,	3770	,0
+Edge,	6931	,0
+Edge,	5601	,0
+Edge,	2964	,0
+Edge,	5820	,0
+Edge,	2322	,0
+Edge,	2549	,0
+Edge,	2842	,0
+Edge,	6244	,0
+Edge,	3354	,0
+Edge,	8649	,0
+Edge,	7061	,0
+Edge,	6389	,0
+Edge,	2370	,0
+Edge,	1896	,0
+Edge,	6653	,0
+Edge,	6715	,0
+Edge,	5409	,0
+Edge,	6038	,0
+Edge,	2458	,0
+Edge,	8902	,0
+Edge,	3763	,0
+Edge,	1839	,0
+Edge,	1816	,0
+Edge,	6898	,0
+Edge,	4177	,0
+Edge,	2568	,0
+Edge,	9062	,0
+Edge,	7283	,0
+Edge,	4694	,0
+Edge,	6732	,0
+Edge,	5671	,0
+Edge,	5912	,0
+Edge,	2244	,0
+Edge,	1162	,0
+Edge,	9716	,0
+Edge,	5057	,0
+Edge,	2842	,0
+Edge,	5056	,0
+Edge,	9445	,0
+Edge,	7864	,0
+Edge,	4571	,0
+Edge,	3069	,0
+Edge,	7395	,0
+Edge,	4538	,0
+Edge,	5335	,0
+Edge,	4172	,0
+Edge,	3100	,0
+Edge,	5338	,0
+Edge,	3007	,0
+Edge,	5611	,0
+Edge,	7323	,0
+Edge,	2108	,0
+Edge,	6599	,0
+Edge,	1202	,0
+Edge,	6805	,0
+Edge,	6704	,0
+Edge,	7248	,0
+Edge,	6372	,0
+Edge,	6581	,0
+Edge,	1742	,0
+Edge,	6126	,0
+Edge,	9185	,0
+Edge,	5888	,0
+Edge,	6028	,0
+Edge,	5405	,0
+Edge,	4406	,0
+Edge,	6879	,0
+Edge,	8991	,0
+Edge,	5339	,0
+Edge,	2785	,0
+Edge,	7971	,0
+Edge,	3018	,0
+Edge,	2002	,0
+Cloud,	3509	,0
+Cloud,	3434	,0
+Cloud,	1805	,0
+Cloud,	9863	,0
+Cloud,	7066	,0
+Cloud,	1942	,0
+Cloud,	2784	,0
+Cloud,	3442	,0
+Cloud,	5246	,0
+Cloud,	8957	,0
+Cloud,	5075	,0
+Cloud,	1163	,0
+Cloud,	1583	,0
+Cloud,	5986	,0
+Cloud,	9304	,0
+Cloud,	8736	,0
+Cloud,	5601	,0
+Cloud,	2476	,0
+Cloud,	8903	,0
+Cloud,	9955	,0
+Cloud,	6530	,0
+Cloud,	4895	,0
+Cloud,	1965	,0
+Cloud,	7769	,0
+Cloud,	4662	,0
+Cloud,	2434	,0
+Cloud,	2772	,0
+Cloud,	2525	,0
+Cloud,	8257	,0
+Cloud,	6703	,0
+Cloud,	8774	,0
+Cloud,	8215	,0
+Cloud,	3839	,0
+Cloud,	1344	,0
+Cloud,	4532	,0
+Cloud,	7542	,0
+Cloud,	1795	,0
+Cloud,	8920	,0
+Cloud,	6698	,0
+Cloud,	9589	,0
+Cloud,	4619	,0
+Cloud,	4999	,0
+Cloud,	6597	,0
+Cloud,	8989	,0
+Cloud,	1277	,0
+Cloud,	6621	,0
+Cloud,	9229	,0
+Cloud,	6481	,0
+Cloud,	4105	,0
+Cloud,	7514	,0
+Cloud,	3161	,0
+Cloud,	8832	,0
+Cloud,	5837	,0
+Cloud,	4874	,0
+Cloud,	1372	,0
+Cloud,	7220	,0
+Cloud,	4883	,0
+Cloud,	7787	,0
+Cloud,	3388	,0
+Cloud,	8344	,0
+Cloud,	8220	,0
+Cloud,	7387	,0
+Cloud,	9403	,0
+Cloud,	5110	,0
+Cloud,	2412	,0
+Cloud,	4279	,0
+Cloud,	6302	,0
+Cloud,	1521	,0
+Cloud,	4415	,0
+Cloud,	5766	,0
+Cloud,	6243	,0
+Cloud,	9431	,0
+Cloud,	4436	,0
+Cloud,	7639	,0
+Cloud,	4805	,0
+Cloud,	2026	,0
+Cloud,	4666	,0
+Cloud,	6901	,0
+Cloud,	5214	,0
+Cloud,	3576	,0
+Cloud,	9047	,0
+Cloud,	3517	,0
+Cloud,	6113	,0
+Cloud,	4382	,0
+Cloud,	4116	,0
+Cloud,	6198	,0
+Cloud,	5336	,0
+Cloud,	4730	,0
+Cloud,	1166	,0
+Cloud,	8124	,0
+Cloud,	5082	,0
+Cloud,	9251	,0
+Cloud,	1568	,0
+Cloud,	6157	,0
+Cloud,	5210	,0
+Cloud,	3676	,0
+Cloud,	5654	,0
+Cloud,	2279	,0
+Cloud,	7446	,0
+Cloud,	1025	,0
